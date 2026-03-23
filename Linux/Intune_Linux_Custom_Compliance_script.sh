@@ -571,7 +571,7 @@ PowerShellCommandsString='
 	$hash.Add("MicrosoftDefenderForEndpointOnLinux_DefinitionsStatus_up_to_date", $MicrosoftDefenderForEndpointOnLinux_DefinitionsStatus_up_to_date)
 
 	$logData += "MicrosoftDefenderForEndpointOnLinux_real_time_protection_enabled=$MicrosoftDefenderForEndpointOnLinux_real_time_protection_enabled"
-	$hash.Add("MicrosoftDefenderForEndpointOnLinux_Real_time_protection_enabled", $MicrosoftDefenderForEndpointOnLinux_real_time_protection_enabled)
+	$hash.Add("MicrosoftDefenderForEndpointOnLinux_real_time_protection_enabled", $MicrosoftDefenderForEndpointOnLinux_real_time_protection_enabled)
 
 
 	$logData += "###################################################"
